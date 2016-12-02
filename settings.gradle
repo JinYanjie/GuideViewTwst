@@ -1,0 +1,1 @@
+include ':app', ':guide_app', ':guideview', ':myapplication2'

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\myResource\\code\\MyApplication\\guide_app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_simple_guide_view.xml",
+        "source": "E:\\myResource\\code\\MyApplication\\guide_app\\src\\main\\res\\menu\\menu_simple_guide_view.xml"
+    },
+    {
+        "merged": "E:\\myResource\\code\\MyApplication\\guide_app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\myResource\\code\\MyApplication\\guide_app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\myResource\\code\\MyApplication\\guide_app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_muti_guide_view.xml",
+        "source": "E:\\myResource\\code\\MyApplication\\guide_app\\src\\main\\res\\menu\\menu_muti_guide_view.xml"
+    }
+]

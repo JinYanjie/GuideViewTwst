@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\myResource\\code\\MyApplication\\guide_app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\arrow.png",
+        "source": "E:\\myResource\\code\\MyApplication\\guide_app\\src\\main\\res\\mipmap-xxhdpi\\arrow.png"
+    },
+    {
+        "merged": "E:\\myResource\\code\\MyApplication\\guide_app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\myResource\\code\\MyApplication\\guide_app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
